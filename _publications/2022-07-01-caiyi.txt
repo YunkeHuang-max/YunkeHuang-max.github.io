@@ -2,7 +2,7 @@
 title: "Smart evaluation of building fire scenario and hazard by attenuation of alarm sound field"
 collection: publications
 permalink: /publication/2022-07-01-caiyi
-date: 2024-07-01
+date: 2022-07-01
 venue: 'Journal of Building Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2352710222002777'
 citation: 'Xiong C, Wang Z, <b><u>Huang Y.</u></b>, Shi F, & Huang X. (2022) &quot;Smart evaluation of building fire scenario and hazard by attenuation of alarm sound field. &quot; <i>Journal of Building Engineering</i>, 51, p. 104264'

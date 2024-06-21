@@ -1,0 +1,9 @@
+---
+title: "Sound absorption coefficient measurement by extracting the first reflected wave in a short tube"
+collection: publications
+permalink: /publication/2020-02-01-zhengyu
+date: 2020-02-01
+venue: 'Applied Acoustics'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0003682X19306930'
+citation: 'Wei, Z., Hou, H., Gao, N., <b><u>Huang, Y.</u></b>, & Yang, J. (2020). &quot;Sound absorption coefficient measurement by extracting the first reflected wave in a short tube. &quot; <i>Applied Acoustics</i>, 159, 107087.' 
+---
