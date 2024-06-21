@@ -1,7 +1,7 @@
 ---
 title: "Stay-eat or run-away: Two alternative escape behaviors"
 collection: publications
-permalink: /publication/2019-02-04-PLA-stay-eat
+permalink: /publication/2019-02-04-shuai
 date: 2019-02-04
 venue: 'Physics Letters A'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0375960119300246'

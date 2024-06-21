@@ -1,7 +1,7 @@
 ---
 title: "Broadening perfect sound absorption by composite absorber filled with porous material at low frequency"
 collection: publications
-permalink: /publication/2022-07-01-caiyi
+permalink: /publication/2022-02-01-caiyi
 date: 2022-02-01
 venue: 'Journal of Vibration and Control'
 paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/1077546320980214'
