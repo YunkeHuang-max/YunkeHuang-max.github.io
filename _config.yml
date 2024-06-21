@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yunke HUANG/ Personal Homepage"
+title                    : "Yunke/ Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yunke Huang"
 description              : &description "personal description"
