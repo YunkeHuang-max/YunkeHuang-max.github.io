@@ -1,9 +1,9 @@
 ---
-title: "Complex Young's modulus measurement by incident wave extracting in a thin resonant bar"
+title: "Complex Young modulus measurement by incident wave extracting in a thin resonant bar"
 collection: publications
 permalink: /publication/2017-11-01-zhengyu
 date: 2017-11-01
 venue: 'The Journal of the Acoustical Society of America'
 paperurl: 'https://pubs.aip.org/asa/jasa/article-abstract/142/6/3436/694914/Complex-Young-s-modulus-measurement-by-incident'
-citation: 'Wei, Z., Hou, H., Gao, N., <b><u>Huang, Y.</u></b>, & Yang, J. (2017).  &quot;Complex Young's modulus measurement by incident wave extracting in a thin resonant bar. &quot; <i>The Journal of the Acoustical Society of America</i>, 142(6), 3436-3442.' 
+citation: 'Wei, Z., Hou, H., Gao, N., <b><u>Huang, Y.</u></b>, & Yang, J. (2017).  &quot;Complex Young modulus measurement by incident wave extracting in a thin resonant bar. &quot; <i>The Journal of the Acoustical Society of America</i>, 142(6), 3436-3442.' 
 ---
