@@ -1,0 +1,9 @@
+---
+title: "Materials acoustic properties test by the dual-microphones broadband impulse method"
+collection: publications
+permalink: /publication/2016-08-21-huang
+date: 2016-08-21
+venue: 'INTER-NOISE and NOISE-CON Congress and Conference Proceedings'
+paperurl: 'https://www.ingentaconnect.com/content/ince/incecp/2016/00000253/00000006/art00075'
+citation: '<b><u>Huang, Y.</u></b>, Wei, Z., & Zhang, S. (2016). &quot;Materials acoustic properties test by the dual-microphones broadband impulse method. &quot; <i>INTER-NOISE and NOISE-CON Congress and Conference Proceedings</i>, Vol. 253, No. 6, pp. 2529-2536.' 
+---

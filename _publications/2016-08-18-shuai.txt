@@ -1,0 +1,9 @@
+---
+title: "Pattern formation in constrained environments: A swarm robot target trapping method"
+collection: publications
+permalink: /publication/2016-08-18-shuai
+date: 2016-08-18
+venue: '2016 International Conference on Advanced Robotics and Mechatronics (ICARM)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/7606963'
+citation: 'Peng, X., Zhang, S., & <b><u>Huang, Y.</u></b>. (2016). &quot;Pattern formation in constrained environments: A swarm robot target trapping method. &quot; <i>2016 International Conference on Advanced Robotics and Mechatronics (ICARM)</i>, pp. 455-460.' 
+---

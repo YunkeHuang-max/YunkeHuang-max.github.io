@@ -1,0 +1,9 @@
+---
+title: "Gene regulatory networks with asymmetric information for swarm robot pattern formation"
+collection: publications
+permalink: /publication/2015-01-01-shuai
+date: 2015-01-01
+venue: 'Intelligent Robotics and Applications: 9th International Conference, ICIRA 2015, Portsmouth, UK, August 24–27, 2015, Proceedings, Part III'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-22873-0_2'
+citation: 'Zhang, S., Peng, X., <b><u>Huang, Y.</u></b>. , & Yang, P. (2015). &quot;Gene regulatory networks with asymmetric information for swarm robot pattern formation. &quot; <i>Intelligent Robotics and Applications: 9th International Conference, ICIRA 2015, Portsmouth, UK, August 24–27, 2015, Proceedings, Part III</i>, pp.14-24.' 
+---
