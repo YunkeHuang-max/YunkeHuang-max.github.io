@@ -1,0 +1,9 @@
+---
+title: "Peridynamic model for visco-hyperelastic material deformation in different strain rates"
+collection: publications
+permalink: /publication/2019-11-20-huang
+date: 2019-11-20
+venue: 'Continuum Mechanics and Thermodynamics'
+paperurl: 'https://link.springer.com/article/10.1007/s00161-019-00849-0'
+citation: '<b><u>Huang, Y.</u></b>, Oterkus, S., Hou, H., Oterkus, E., Wei, Z., & Zhang, S. (2019).. &quot;Peridynamic model for visco-hyperelastic material deformation in different strain rates. &quot; <i>Continuum Mechanics and Thermodynamics</i>, pp. 1-35.' 
+---

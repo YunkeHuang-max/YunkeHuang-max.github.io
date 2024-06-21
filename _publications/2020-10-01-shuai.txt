@@ -1,7 +1,7 @@
 ---
 title: "Frequency-dependent strategy selection in a hunting game with a finite population"
 collection: publications
-permalink: /publication/2020-10-01-AMC-hunting
+permalink: /publication/2020-10-01-shuai
 date: 2020-10-01
 venue: 'Applied Mathematics and Computation'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0096300320303192'

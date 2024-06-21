@@ -1,0 +1,9 @@
+---
+title: "Two-dimensional finite-difference time-domain formulation for sound propagation in a temperature-dependent elastomer-fluid medium"
+collection: publications
+permalink: /publication/2020-01-01-huang
+date: 2020-01-01
+venue: 'The Journal of the Acoustical Society of America'
+paperurl: 'https://pubs.aip.org/asa/jasa/article-abstract/147/1/428/828550/Two-dimensional-finite-difference-time-domain?redirectedFrom=fulltext'
+citation: '<b><u>Huang, Y.</u></b>, Hou, H., Oterkus, S., Wei, Z., & Gao, N. (2020). &quot;Two-dimensional finite-difference time-domain formulation for sound propagation in a temperature-dependent elastomer-fluid medium. &quot; <i>The Journal of the Acoustical Society of America</i>, 147(1), 428-445.' 
+---

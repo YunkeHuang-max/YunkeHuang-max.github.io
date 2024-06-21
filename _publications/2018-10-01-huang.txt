@@ -1,0 +1,9 @@
+---
+title: "Mechanical and acoustic performance prediction model for elastomers in different environmental conditions"
+collection: publications
+permalink: /publication/2018-10-01-huang
+date: 2018-10-01
+venue: 'The Journal of the Acoustical Society of America'
+paperurl: 'https://pubs.aip.org/asa/jasa/article-abstract/144/4/2269/598873/Mechanical-and-acoustic-performance-prediction?redirectedFrom=fulltext'
+citation: '<b><u>Huang, Y.</u></b>, Hou, H., Oterkus, S., Wei, Z., & Zhang, S. (2018). &quot;Mechanical and acoustic performance prediction model for elastomers in different environmental conditions. &quot; <i>The Journal of the Acoustical Society of America</i>, 144(4), 2269-2280.' 
+---

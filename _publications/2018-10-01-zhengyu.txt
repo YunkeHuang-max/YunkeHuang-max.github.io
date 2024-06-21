@@ -1,0 +1,9 @@
+---
+title: "Normal incidence sound transmission loss evaluation with a general upstream tube wave decomposition formula"
+collection: publications
+permalink: /publication/2018-10-01-zhengyu
+date: 2018-10-01
+venue: 'The Journal of the Acoustical Society of America'
+paperurl: 'https://pubs.aip.org/asa/jasa/article-abstract/144/4/2344/598842/Normal-incidence-sound-transmission-loss'
+citation: 'Wei, Z., Hou, H., Gao, N., <b><u>Huang, Y.</u></b>, & Yang, J. (2018). &quot;Normal incidence sound transmission loss evaluation with a general upstream tube wave decomposition formula. &quot; <i>The Journal of the Acoustical Society of America</i>, 144(4), 2344-2353.' 
+---

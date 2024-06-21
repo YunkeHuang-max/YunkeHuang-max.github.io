@@ -1,0 +1,9 @@
+---
+title: "Measurement of sound absorption using a single fixed microphone in a circular pulse-tube"
+collection: publications
+permalink: /publication/2019-11-01-zhengyu
+date: 2019-11-01
+venue: 'Acta Acustica united with Acustica'
+paperurl: 'https://www.ingentaconnect.com/content/dav/aaua/2019/00000105/00000006/art00033'
+citation: 'Wei, Z., Hou, H., Gao, N., <b><u>Huang, Y.</u></b>,  & Yang, J. (2019).  &quot;Measurement of sound absorption using a single fixed microphone in a circular pulse-tube. &quot; <i>Acta Acustica united with Acustica</i>, 105(6), 1228-1236.' 
+---
