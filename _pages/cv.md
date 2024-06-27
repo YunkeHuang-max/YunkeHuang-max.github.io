@@ -29,11 +29,11 @@ Work experience
   
 Research Interests
 ======
-*Peridynamic theory, Nonlinear Peridynamic modelling, Themo-mechanical coupling analysis
-*Ultrasonic nondestructive evaluation, Tomography method, Polycrystal anisotropy imaging
-*Finite-differential time-domain method, Dynamic acoustic-mechanical modelling for
-elastomers.
-*Dynamic measuring method, Underwater mechanical and acoustic testing
+* Peridynamic theory, Nonlinear Peridynamic modelling, Themo-mechanical coupling analysis
+* Ultrasonic nondestructive evaluation, Tomography method, Polycrystal anisotropy imaging
+* Finite-differential time-domain method, Dynamic acoustic-mechanical modelling for elastomers.
+* Dynamic measuring method, Underwater mechanical and acoustic testing
+* Multi-robot system
 
 Publications
 ======
@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams`
