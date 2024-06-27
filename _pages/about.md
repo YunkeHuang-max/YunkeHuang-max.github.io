@@ -7,47 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Postdoctoral Fellow at the [University of Hong Kong (HKU)](https://www.hku.hk) advised by [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan). Before that, I was a Postdoctoral Fellow at Northwestern Polytechnical University, working with [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I received my Ph.D. degree and Master degree in Marine Science and Technology from Northwestern Polytechnical University, under the supervision of [Prof. Mingyong Liu](https://teacher.nwpu.edu.cn/liumingyong) and [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I was a Joint Ph.D. student at the Intelligent Computational Engineering Laboratory [ICE LAB](https://icelab.uk), Department of Mechanical and Aerospace Engineering, the University of Strathclyde, UK, under the supervision of [Dr. Edmondo Minisci](https://www.strath.ac.uk/staff/minisciedmondodr/#contact). 
+Dr. Yunke Huang received the Ph.D. degree in 2021 from Northwestern Polytechnical
+University. She was a Joint Ph.D. student at the Intelligent Computational Engineering Laboratory [ICE LAB](https://icelab.uk), Department of Mechanical and Aerospace Engineering, the University of Strathclyde, UK, under the supervision of [Dr. Edmondo Minisci](https://www.strath.ac.uk/staff/minisciedmondodr/#contact). 
+ She is currently a Postdoctoral Fellow with the Department of Computer
+Science at the University of Hong Kong, advised by Prof. [Komura, Taku] (https://www.cs.hku.hk/index.php/people/academic-staff/taku). Before joined the University of Hong Kong, she was a
+Postdoctoral Fellow with the Department of Mechanical and Aerospace Engineering at
+Hong Kong University of Science and Technology, under the supervision of Prof. [Fan Shi](https://seng.hkust.edu.hk/about/people/faculty/fan-shi).
 
+Dr. Yunke Huang’s main research interest is computational mechanics,
+acoustics/ultrasonics, and multi-robot systems. She has published more than 10 peer
+reviewed journal/conference papers, including the top specialized journal (e.g., Continuum
+Mechanics and Thermodynamics (CMT), The Journal of the Acoustical Society of
+America (JASA) and IEEE Robotics and Automation Letters (RA-L).
 
-Research Interest
+Research Interests
 ======
-* Swarm robots/drones, Robotics and autonomous systems, Multi-robot/agent systems
-* Swarm intelligence, Artificial intelligence, Collective behavior
-* Game theory, Evolutionary dynamics, Smooth particle hydrodynamics
-* Agent based modeling and simulation, Distributed control
-* Differential privacy
-* Bio-inspired optimization
+* Peridynamic theory, Nonlinear Peridynamic modelling, Themo-mechanical coupling analysis
+* Ultrasonic nondestructive evaluation, Tomography method, Polycrystal anisotropy imaging
+* Finite-differential time-domain method, Dynamic acoustic-mechanical modelling for elastomers.
+* Dynamic measuring method, Underwater mechanical and acoustic testing
+* Multi-robot system
 
-Services
-======
-* Associate Editor 
-  * 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023)
-* Reviewer for Journal
-  * IEEE Transactions on Robotics (T-RO)
-  * IEEE Transactions on Control of Network Systems (T-CNS) 
-  * IEEE Robotics and Automation Letters (R-AL) 
-  * IEEE Access
-  * Scientific Reports 
-  * SN Applied Sciences
-  * Complex & Intelligent Systems
-  * International Journal of Power Electronics and Drive System 
-  * Nonlinear Dynamics 
-  * Journal of Physics: Complexity 
-  * International conference (e.g., IROS, ROBIO) etc.
-
-
-News
-======
-* <b>April 22, 2024</b> 
-
-  Our new paper "Heterogeneous Targets Trapping with Swarm Robots by Using Adaptive Density-based Interaction" has been published in <i>IEEE Transactions on Robotics (T-RO)</i>, 2024.
-* <b>March 20, 2024</b> 
-
-  Our new paper "Cooperative Object Transport by Two Robots Connected With a Ball-String-Ball Structure" has been published in <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2024.
-* <b>January 29, 2024</b> 
-
-  Our new paper "A Distributed Outmost Push Approach for Multi-robot Herding" has been published in <i>IEEE Transactions on Robotics (T-RO)</i>, 2024
-* **June 29, 2023** 
-
-    I am assigned as an **Associate Editor** for <i>IEEE International Conference on Robotics and Biomimetics (ROBIO 2023)<i>.

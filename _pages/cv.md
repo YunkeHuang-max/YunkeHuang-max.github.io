@@ -16,7 +16,7 @@ Education
 * M.S. in Physics, Northwestern Polytechnical University, China, 2019
 * B.S. in Mathematics, Northwestern University, China, 2013
 
-Work experience
+Employment
 ======
 * Jun 2023-Present: The University of Hong Kong & TranGP Centre
   * Postdoctoral Fellow
@@ -34,6 +34,16 @@ Research Interests
 * Finite-differential time-domain method, Dynamic acoustic-mechanical modelling for elastomers.
 * Dynamic measuring method, Underwater mechanical and acoustic testing
 * Multi-robot system
+
+Honors
+======
+* Second Prize of Science and Technology of Shaanxi Higher Education Institutions
+  * Feb 2021
+* First Grade Ph.D. Scholarship of Northwestern Polytechnical University
+  * Sept 2015-July 2021
+* The Second Nationwide Award of the National Mathematical Modeling Contest (全国数学建模竞赛国家二等奖)
+  * Feb 2012
+
 
 Publications
 ======
