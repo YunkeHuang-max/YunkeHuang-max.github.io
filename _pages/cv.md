@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Northwestern Polytechnical University, China, 2021
+* Joint Ph.d. in Peridynamics, University of Strathclyde, UK, 2019
+* M.S. in Physics, Northwestern Polytechnical University, China, 2019
+* B.S. in Mathematics, Northwestern University, China, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2023-Present: The University of Hong Kong & TranGP Centre
+  * Postdoctoral Fellow
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2021-May 2023: The Hong Kong University of Science and Technology
+  * Postdoctoral Fellow
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2021-May 2021:  The Hong Kong University of Science and Technology
+  * Research Associate
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Peridynamic theory, Nonlinear Peridynamic modelling, Themo-mechanical coupling analysis
+*Ultrasonic nondestructive evaluation, Tomography method, Polycrystal anisotropy imaging
+*Finite-differential time-domain method, Dynamic acoustic-mechanical modelling for
+elastomers.
+*Dynamic measuring method, Underwater mechanical and acoustic testing
 
 Publications
 ======
