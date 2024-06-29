@@ -10,7 +10,7 @@ redirect_from:
 Dr. Yunke Huang received the Ph.D. degree in 2021 from Northwestern Polytechnical
 University. She was a Joint Ph.D. student at the Intelligent Computational Engineering Laboratory [ICE LAB](https://icelab.uk), Department of Mechanical and Aerospace Engineering, the University of Strathclyde, UK, under the supervision of [Dr. Edmondo Minisci](https://www.strath.ac.uk/staff/minisciedmondodr/#contact). 
  She is currently a Postdoctoral Fellow with the Department of Computer
-Science at the University of Hong Kong, advised by Prof. [Komura, Taku] (https://www.cs.hku.hk/index.php/people/academic-staff/taku). Before joined the University of Hong Kong, she was a
+Science at the University of Hong Kong, advised by Prof. [Komura, Taku](https://www.cs.hku.hk/index.php/people/academic-staff/taku). Before joined the University of Hong Kong, she was a
 Postdoctoral Fellow with the Department of Mechanical and Aerospace Engineering at
 Hong Kong University of Science and Technology, under the supervision of Prof. [Fan Shi](https://seng.hkust.edu.hk/about/people/faculty/fan-shi).
 
