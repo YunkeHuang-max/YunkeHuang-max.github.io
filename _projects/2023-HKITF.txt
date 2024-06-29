@@ -1,0 +1,10 @@
+---
+title: "High-Stiffness High-Strength Engineered Cementitious Composites (HS2-ECCs) as Stay-in-Place Formwork
+in Modular Construction"
+collection: projects
+type: "Participant"
+permalink: /projects/2023-HKITF
+venue: "HK Innovative Technology Funding (Project #PRP/040/20FX)"
+date: 2023-01-01
+location: "The Hong Kong University of Science and Technology, Hong Kong, China"
+---

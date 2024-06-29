@@ -1,0 +1,10 @@
+---
+title: "Study on
+Acoustic Parameter Measurement Method of Underwater Acoustic Material"
+collection: projects
+type: "Participant"
+permalink: /projects/2021-NKRDP
+venue: "National Key Research and Development Plan (Project #2016YFF0200902)"
+date: 2021-01-01
+location: "Northwestern Polytechnical University, China"
+---

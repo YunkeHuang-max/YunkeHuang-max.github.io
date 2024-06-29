@@ -1,0 +1,10 @@
+---
+title: "Joint Ph.D. program on Peridynamic Theory on Visco-hyperelasticity"
+collection: projects
+type: "Principal Investigator"
+permalink: /projects/2019-ICTPIT
+venue: "The International Cooperation Training Program for the Innovation Talents (Project
+#201606290285"
+date: 2019-01-01
+location: "The University of Strathclyde, UK"
+---

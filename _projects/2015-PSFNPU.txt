@@ -1,0 +1,11 @@
+---
+title: "Prediction and Modeling of Dynamic Mechanical Parameters of
+Hydroacoustic Viscoelastic Materials"
+collection: projects
+type: "Principal Investigator"
+permalink: /projects/2015-PSFNPU
+venue: "Postgraduate Seed fund of Northwestern Polytechnical University (Project
+#H2015034)"
+date: 2022-01-01
+location: "Northwestern Polytechnical University, China"
+---
