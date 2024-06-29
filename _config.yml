@@ -266,7 +266,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: t alk
+      layout: talk
       author_profile: true
       share: true
 
