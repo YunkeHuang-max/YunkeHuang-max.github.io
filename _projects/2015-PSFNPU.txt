@@ -6,6 +6,6 @@ type: "Principal Investigator"
 permalink: /projects/2015-PSFNPU
 venue: "Postgraduate Seed fund of Northwestern Polytechnical University (Project
 #H2015034)"
-date: 2022-01-01
+date: 2015-01-01
 location: "Northwestern Polytechnical University, China"
 ---
