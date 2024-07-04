@@ -29,10 +29,10 @@ Employment
   
 Research Interests
 ======
-* Peridynamic theory, Nonlinear Peridynamic modelling, Themo-mechanical coupling analysis
-* Ultrasonic nondestructive evaluation, Tomography method, Polycrystal anisotropy imaging
-* Finite-differential time-domain method, Dynamic acoustic-mechanical modelling for elastomers.
-* Dynamic measuring method, Underwater mechanical and acoustic testing
+* Peridynamic theory, Nonlinear meshfree simulation, Themo-mechanical coupling analysis
+* Ultrasonic nondestructive evaluation, Anisotropy tomography imaging
+* Finite-differential time-domain method, Dynamic acoustic-mechanical modelling
+* Dynamic acoustical measurment, Underwater mechanical and acoustic testing
 * Multi-robot system
 
 Honors

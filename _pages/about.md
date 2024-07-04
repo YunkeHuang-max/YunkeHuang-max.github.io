@@ -23,8 +23,8 @@ America (JASA) and IEEE Robotics and Automation Letters (RA-L).
 Research Interests
 ======
 * Peridynamic theory, Nonlinear meshfree simulation, Themo-mechanical coupling analysis
-* Ultrasonic nondestructive evaluation, Anisotropy tomography method
+* Ultrasonic nondestructive evaluation, Anisotropy tomography imaging
 * Finite-differential time-domain method, Dynamic acoustic-mechanical modelling
-* Dynamic acoustical measuring method, Underwater mechanical and acoustic testing
+* Dynamic acoustical measurement, Underwater mechanical and acoustic testing
 * Multi-robot system
 
