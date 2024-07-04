@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Dr. Yunke Huang received the Ph.D. degree in 2021 from Northwestern Polytechnical
-University. She was a Joint Ph.D. student at the Intelligent Computational Engineering Laboratory [ICE LAB](https://icelab.uk), Department of Mechanical and Aerospace Engineering, the University of Strathclyde, UK, under the supervision of [Dr. Edmondo Minisci](https://www.strath.ac.uk/staff/minisciedmondodr/#contact). 
+University. She was a Joint Ph.D. student at the Peridynamics Research Centre [PDRC](https://www.peridynamics.org/pdrc-aim), Department of Naval Architecture, Ocean and Marine Engineering, the University of Strathclyde, UK, under the supervision of Prof. [Selda Oterkus](https://www.strath.ac.uk/staff/oterkusseldams) and Prof. [Erkan Oterkus](https://www.strath.ac.uk/staff/oterkuserkandr). 
  She is currently a Postdoctoral Fellow with the Department of Computer
 Science at the University of Hong Kong, advised by Prof. [Komura, Taku](https://www.cs.hku.hk/index.php/people/academic-staff/taku). Before joined the University of Hong Kong, she was a
 Postdoctoral Fellow with the Department of Mechanical and Aerospace Engineering at
@@ -22,9 +22,9 @@ America (JASA) and IEEE Robotics and Automation Letters (RA-L).
 
 Research Interests
 ======
-* Peridynamic theory, Nonlinear Peridynamic modelling, Themo-mechanical coupling analysis
-* Ultrasonic nondestructive evaluation, Tomography method, Polycrystal anisotropy imaging
-* Finite-differential time-domain method, Dynamic acoustic-mechanical modelling for elastomers.
-* Dynamic measuring method, Underwater mechanical and acoustic testing
+* Peridynamic theory, Nonlinear meshfree simulation, Themo-mechanical coupling analysis
+* Ultrasonic nondestructive evaluation, Anisotropy tomography method
+* Finite-differential time-domain method, Dynamic acoustic-mechanical modelling
+* Dynamic acoustical measuring method, Underwater mechanical and acoustic testing
 * Multi-robot system
 
